@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "대학병원 재직 25년"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "환자를 위한 ** 착한 ** 병원."
-  location         : "Somewhere"
+  bio              : "교수 경력 원장의 착한 병원"
+  location         : "5호선 개롱역 50m"
   email            :
   links:
     - label: "Email"
