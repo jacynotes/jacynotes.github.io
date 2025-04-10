@@ -2,7 +2,7 @@
 layout: single
 title:  "추간관절통"
 categories: 허리통증
-tag: [추간관절통, 허리통증]
+tag: 추간관절통
 typora-root-url: ../
 toc: true
 toc_sticky: true
