@@ -27,7 +27,7 @@ toc_icon: "fas fa-utensils"
 
 앉았다 일어날 때 통증은 더욱 악화되는 경향이 있습니다. 
 
-병변 발생기전이 FRS 혹은 ERS이던 간에 Sphinx test, lumbar flexion test에서 양성소견이 일정하게 관찰되는 특징이 있다는 것이 개인적 의견입니다. 
+병변 발생기전이 FRS 혹은 ERS이던 간에 Sphinx test, lumbar flexion test에서 양성소견이 일정하게 관찰되는 특징이 있다는 것이 개인적 의견입니다. ![](/../../블로그사진자료/IMWEB_PNGtree/DSC02653.JPG)
 
 
 
