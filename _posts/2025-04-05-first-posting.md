@@ -27,7 +27,7 @@ toc_icon: "fas fa-utensils"
 
 앉았다 일어날 때 통증은 더욱 악화되는 경향이 있습니다. 
 
-병변 발생기전이 FRS 혹은 ERS이던 간에 Sphinx test, lumbar flexion test에서 양성소견이 일정하게 관찰되는 특징이 있다는 것이 개인적 의견입니다. ![](/../../블로그사진자료/IMWEB_PNGtree/DSC02653.JPG)
+병변 발생기전이 FRS 혹은 ERS이던 간에 Sphinx test, lumbar flexion test에서 양성소견이 일정하게 관찰되는 특징이 있다는 것이 개인적 의견입니다.
 
 
 
@@ -41,7 +41,7 @@ toc_icon: "fas fa-utensils"
 
 장담컨데 추간관절내 주사를 쉽게 시행하였다면, 추간관절통증이 아닌 환자에게 신경블록을 한 것입니다. 
 
-입구가 활짝 열려있는 정상 추간관절에 신경블록을 한 셈이니 진단 오류입니다. <img src="/../../블로그사진자료/IMWEB_PNGtree/접수부.jpg" alt="접수부" style="zoom:33%;" />
+입구가 활짝 열려있는 정상 추간관절에 신경블록을 한 셈이니 진단 오류입니다. 
 
 
 
